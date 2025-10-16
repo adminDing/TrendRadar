@@ -5,6 +5,7 @@ DeepSeek
 google
 gemini
 
+Ai
 chatgpt
 openai
 
@@ -16,10 +17,20 @@ openai
 美债
 
 美股
+标普500
+纳斯达克
 
 美元
 +指数
 
 特朗普
 
-伊朗
+A股
+上证
+深证
++涨跌
+!预测
+
+中美贸易
+
+
